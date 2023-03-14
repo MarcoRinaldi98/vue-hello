@@ -16,7 +16,7 @@ createApp(
         },
         methods: {
             changeColor() {
-                if (this.color = 'text-primary') {
+                if (this.color == 'text-primary') {
                     this.color = 'text-warning';
                 } else {
                     this.color = 'text-primary';
