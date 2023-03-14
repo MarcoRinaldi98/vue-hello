@@ -8,7 +8,9 @@ createApp(
     {
         data() {
             return {
-                message: 'BUONGIORNO !'
+                message: 'BUONGIORNO !',
+                image: 'img/lion.jpg',
+                color: 'text-primary'
             }          
         }
     }
