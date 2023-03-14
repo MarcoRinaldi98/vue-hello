@@ -8,7 +8,7 @@ createApp(
     {
         data() {
             return {
-                
+                message: 'BUONGIORNO !'
             }          
         }
     }
